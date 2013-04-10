@@ -1,0 +1,22 @@
+{
+    "name": "bobloco/hellodolly",
+    "description": "A tribute to WordPress, for teaching me PHP",
+    "authors": [
+        {
+            "name": "Rob Lowcock",
+            "email": "rob.lowcock@gmail.com"
+        }
+    ],
+    "homepage": "http://www.cunningtitle.com",
+    "license": "MIT",
+    "require": {
+        "php": ">=5.3.0",
+        "illuminate/support": "4.0.x"
+    },
+    "autoload": {
+        "psr-0": {
+            "Bobloco\\Hellodolly": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
