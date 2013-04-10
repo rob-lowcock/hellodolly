@@ -12,13 +12,13 @@ class HellodollyServiceProvider extends ServiceProvider {
 	protected $defer = false;
 
 	/**
-     * Bootstrap the application events.
+     * Events that should occur on boot
      *
      * @return void
      */
     public function boot()
     {
-     //   $this->package('bobloco/hellodolly');
+     //
     }
 
 	/**
@@ -35,7 +35,7 @@ class HellodollyServiceProvider extends ServiceProvider {
 	}
 
 	/**
-	 * Get the services provided by the provider.
+	 * List of services provided
 	 *
 	 * @return array
 	 */

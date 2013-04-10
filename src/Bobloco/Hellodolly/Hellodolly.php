@@ -2,9 +2,11 @@
 
 class Hellodolly {
 	
-	/***
-	*	Returns a random line from the first verse of Hello Dolly
-	**/
+	/**
+	* Returns a random line from the first verse of Hello Dolly
+	*
+	* @return string
+	*/
 	public function output()
 	{
 		$lyrics = array(
