@@ -1,6 +1,6 @@
 {
     "name": "bobloco/hellodolly",
-    "description": "A tribute to WordPress, for teaching me PHP",
+    "description": "Generates a random line from Hello Dolly (hat tip to WordPress). Useful for learning the basic structure of a Composer package.",
     "authors": [
         {
             "name": "Rob Lowcock",
